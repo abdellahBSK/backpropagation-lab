@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local-only files (original starter notebooks, assignment screenshot)
+*.ipynb.txt
+consignes.jpeg
